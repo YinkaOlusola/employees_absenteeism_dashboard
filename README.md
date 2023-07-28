@@ -18,7 +18,8 @@ The dataset contains two tables, the Employee_info table, and the Absenteeism ta
 The description of the respective tables is given below:
 \
 \
-
+\
+\
 ### Employee_info
 
 ● **ID:** Unique identifier for each employee.
@@ -45,7 +46,7 @@ The description of the respective tables is given below:
 \
 \
 \
-
+\
 ### Absenteeism
 ● **ID:** Unique identifier for each employee.
 
@@ -68,13 +69,10 @@ to absenteeism (yes=1, no=0).
 \
 \
 \
-
-## After Data Wrangling, the following were included in each Tables
+\
+## After Data Wrangling, the following were included in each Table
 \
 \
-\
-\
-
 ● **Month** based on Month of absence;
 
 ● **Season** based on Month of absence;
@@ -86,7 +84,6 @@ to absenteeism (yes=1, no=0).
 ● **Weekday** based on Day of the Week.
 \
 \
-
 In the Employee_info table:
 
 ● **BMI** based on Weight and Height;
@@ -102,7 +99,6 @@ In the Employee_info table:
 \
 \
 \
-
 ## Important points raised about Absenteeism
 
 ● An employee may have **health-related** issues caused by an unhealthy lifestyle. 
@@ -112,6 +108,7 @@ In the Employee_info table:
 ● Does the distance an employee needs to **travel** to work affect their attendance?
 
 ● The season can affect attendance. Winter months might cause sickness or difficult travel conditions.
+\
 \
 \
 \
