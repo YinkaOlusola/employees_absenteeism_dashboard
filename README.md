@@ -16,9 +16,9 @@ The dataset was cleaned and wrangled on Power BI using DAX and the Dashboard was
 The dataset contains two tables, the Employee_info table, and the Absenteeism table.
 
 The description of the respective tables is given below:
-\
-\
-\
+
+
+
 ### Employee_info
 
 ● **ID:** Unique identifier for each employee.
@@ -42,9 +42,9 @@ The description of the respective tables is given below:
 ● **Weight:** The weight of the employee (in kilograms).
 
 ● **Height:** The height of the employee (in centimeters)
-\
-\
-\
+
+
+
 ### Absenteeism
 ● **ID:** Unique identifier for each employee.
 
@@ -64,13 +64,14 @@ to absenteeism (yes=1, no=0).
 ● **Absenteeism time in hours:** Number of hours the employee has been absent.
 
 ● **Service time:** Number of working hours produced by each employee.
-\
-\
-\
+
+
+
 ## After Data Wrangling, the following were included in each Tables
-\
-\
-\
+
+
+
+
 ● **Month** based on Month of absence;
 
 ● **Season** based on Month of absence;
@@ -91,12 +92,12 @@ In the Employee_info table:
 ● **Smoker status** based on Social smoker; and
 
 ● **Education** level based on Education.
-\
-\
-\
-\
-\
-\
+
+
+
+
+
+
 ## Important points raised about Absenteeism
 
 ● An employee may have **health-related** issues caused by an unhealthy lifestyle. 
@@ -106,10 +107,11 @@ In the Employee_info table:
 ● Does the distance an employee needs to **travel** to work affect their attendance?
 
 ● The season can affect attendance. Winter months might cause sickness or difficult travel conditions.
-\
-\
-\
-\
-\
-\
+
+
+
+
+
+
+
 ![page-1](https://github.com/YinkaOlusola/employees_absenteeism_dashboard/assets/52519547/ecf3d394-4b8a-4c04-922a-c8a8aa3c185f)
