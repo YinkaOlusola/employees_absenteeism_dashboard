@@ -17,7 +17,7 @@ The dataset contains two tables, the Employee_info table, and the Absenteeism ta
 
 The description of the respective tables is given below:
 
-**## Employee_info:**
+## Employee_info:
 
 ● **ID:** Unique identifier for each employee.
 
@@ -44,14 +44,23 @@ The description of the respective tables is given below:
 \
 **## Absenteeism**
 ● **ID:** Unique identifier for each employee.
+
 ● **Reason for absence:**
+      
       **Code 0:** Incomplete submission
+      
       **Code 1, 2, 3, and 4:** Family-related
+      
       **Code 5 – 25, 27, 28:** Medical reasons
+     
       **Code 26:** Unjustified leave
+
 ● **Month of absence:** Month number of the year.
+
 ● **Day of the week:** Monday (2), Tuesday (3), Wednesday (4), Thursday (5), Friday (6).
-● **Work load Average/day:** Average number of work tasks completed per day.
+
+● **Workload Average/day:** Average number of work tasks completed per day.
+
 ● **Hit target:** Target hit factor (0–100).
 
 
