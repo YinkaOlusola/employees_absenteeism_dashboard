@@ -66,13 +66,14 @@ to absenteeism (yes=1, no=0).
 ● **Absenteeism time in hours:** Number of hours the employee has been absent.
 
 ● **Service time:** Number of working hours produced by each employee.
-\
-\
-\
-\
+
+
+
+
+
+
 ## After Data Wrangling, the following were included in each Table
-\
-\
+
 ● **Month** based on Month of absence;
 
 ● **Season** based on Month of absence;
@@ -93,12 +94,10 @@ In the Employee_info table:
 ● **Smoker status** based on Social smoker; and
 
 ● **Education** level based on Education.
-\
-\
-\
-\
-\
-\
+<br>
+<br>
+<br>
+<br>
 ## Important points raised about Absenteeism
 
 ● An employee may have **health-related** issues caused by an unhealthy lifestyle. 
@@ -108,13 +107,13 @@ In the Employee_info table:
 ● Does the distance an employee needs to **travel** to work affect their attendance?
 
 ● The season can affect attendance. Winter months might cause sickness or difficult travel conditions.
-\
-\
-\
-\
-\
-\
-\
-\
+<br>
+<br>
+<br>
+<be>
+<br>
+<br>
+<br>
+<br>
 
 ![page-1](https://github.com/YinkaOlusola/employees_absenteeism_dashboard/assets/52519547/ecf3d394-4b8a-4c04-922a-c8a8aa3c185f)
