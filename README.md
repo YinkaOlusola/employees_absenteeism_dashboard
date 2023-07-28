@@ -20,27 +20,43 @@ The description of the respective tables is as given below:
 **Employee_info:**
 
 ● **ID:** Unique identifier for each employee.
+
 ● **Transportation expense:** Transportation cost (in USD). 
+
 ● **Distance from residence to work:** The distance from the place of work and the employee’s place of residence (kilometers).
+
 ● **Age:** Age of the employee (years).
+
 ● **Education:** High school (1), graduate (2), postgraduate (3), master and doctorate (4).
+
 ● **Children:** Number of child dependents.
 
 In the Absenteeism table:
+
 ● **Month** based on Month of absence;
+
 ● **Season** based on Month of absence;
+
 ● **Absenteeism** reason based on Reason for absence;
+
 ● **Disciplinary** status based on Disciplinary failure; and
+
 ● **Weekday** based on Day of the Week.
 
 
 In the Employee_info table:
+
 ● **BMI** based on Weight and Height;
+
 ● **Drinker status** based on Social drinker;
+
 ● **Smoker status** based on Social smoker; and
+
 ● **Education** level based on Education.
-
-
-
-
+\
+\
+\
+\
+\
+\
 ![page-1](https://github.com/YinkaOlusola/employees_absenteeism_dashboard/assets/52519547/ecf3d394-4b8a-4c04-922a-c8a8aa3c185f)
