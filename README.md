@@ -19,12 +19,12 @@ The description of the respective tables is as given below:
 
 **Employee_info:**
 
-      ● **ID:** -  Unique identifier for each employee.
-      ● **Transportation expense:** - Transportation cost (in USD). 
-      ● **Distance from residence to work:** The distance from the place of work and the employee’s place of residence (kilometers).
-      ● **Age:** Age of the employee (years).
-      ● **Education:** High school (1), graduate (2), postgraduate (3), master and doctorate (4).
-      ● **Children:** Number of child dependents.
+● **ID:** Unique identifier for each employee.
+● **Transportation expense:** Transportation cost (in USD). 
+● **Distance from residence to work:** The distance from the place of work and the employee’s place of residence (kilometers).
+● **Age:** Age of the employee (years).
+● **Education:** High school (1), graduate (2), postgraduate (3), master and doctorate (4).
+● **Children:** Number of child dependents.
 
 In the Absenteeism table:
 ● **Month** based on Month of absence;
