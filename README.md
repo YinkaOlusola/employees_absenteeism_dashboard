@@ -16,8 +16,10 @@ The dataset was cleaned and wrangled on Power BI using DAX and the Dashboard was
 The dataset contains two tables, the Employee_info table, and the Absenteeism table.
 
 The description of the respective tables is given below:
-
-## Employee_info:
+\
+\
+\
+### Employee_info
 
 ● **ID:** Unique identifier for each employee.
 
@@ -42,28 +44,33 @@ The description of the respective tables is given below:
 ● **Height:** The height of the employee (in centimeters)
 \
 \
-**## Absenteeism**
+\
+### Absenteeism
 ● **ID:** Unique identifier for each employee.
 
-● **Reason for absence:**
-      
-      **Code 0:** Incomplete submission
-      
-      **Code 1, 2, 3, and 4:** Family-related
-      
-      **Code 5 – 25, 27, 28:** Medical reasons
-     
-      **Code 26:** Unjustified leave
+● **Reason for absence:** Incomplete submission, Family-related, Medical reasons, Unjustified leave 
 
 ● **Month of absence:** Month number of the year.
 
-● **Day of the week:** Monday (2), Tuesday (3), Wednesday (4), Thursday (5), Friday (6).
+● **Day of the week:** Monday, Tuesday, Wednesday, Thursday, Friday.
 
 ● **Workload Average/day:** Average number of work tasks completed per day.
 
 ● **Hit target:** Target hit factor (0–100).
 
+● **Disciplinary failure:** A failure to adhere to a previous disciplinary warning relating 
+to absenteeism (yes=1, no=0).
 
+● **Absenteeism time in hours:** Number of hours the employee has been absent.
+
+● **Service time:** Number of working hours produced by each employee.
+\
+\
+\
+## After Data Wrangling, the following were included in each Tables
+\
+\
+\
 ● **Month** based on Month of absence;
 
 ● **Season** based on Month of absence;
@@ -84,6 +91,21 @@ In the Employee_info table:
 ● **Smoker status** based on Social smoker; and
 
 ● **Education** level based on Education.
+\
+\
+\
+\
+\
+\
+## Important points raised about Absenteeism
+
+● An employee may have **health-related** issues caused by an unhealthy lifestyle. 
+
+● A younger, more inexperienced employee may be absent from work **after a social weekend**. Is there a pattern of absenteeism based on the **day of the week**?
+
+● Does the distance an employee needs to **travel** to work affect their attendance?
+
+● The season can affect attendance. Winter months might cause sickness or difficult travel conditions.
 \
 \
 \
