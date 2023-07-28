@@ -15,9 +15,9 @@ The dataset was cleaned and wrangled on Power BI using DAX and the Dashboard was
 
 The dataset contains two tables, the Employee_info table, and the Absenteeism table.
 
-The description of the respective tables is as given below:
+The description of the respective tables is given below:
 
-**Employee_info:**
+**## Employee_info:**
 
 ● **ID:** Unique identifier for each employee.
 
@@ -31,7 +31,29 @@ The description of the respective tables is as given below:
 
 ● **Children:** Number of child dependents.
 
-In the Absenteeism table:
+● **Social drinker:** Either “yes” (1) or “no” (0).
+
+● **Social smoker:** Either “yes” (1) or “no” (0).
+
+● **Pet:** The number of pets an employee has.
+
+● **Weight:** The weight of the employee (in kilograms).
+
+● **Height:** The height of the employee (in centimeters)
+\
+\
+**## Absenteeism**
+● **ID:** Unique identifier for each employee.
+● **Reason for absence:**
+      **Code 0:** Incomplete submission
+      **Code 1, 2, 3, and 4:** Family-related
+      **Code 5 – 25, 27, 28:** Medical reasons
+      **Code 26:** Unjustified leave
+● **Month of absence:** Month number of the year.
+● **Day of the week:** Monday (2), Tuesday (3), Wednesday (4), Thursday (5), Friday (6).
+● **Work load Average/day:** Average number of work tasks completed per day.
+● **Hit target:** Target hit factor (0–100).
+
 
 ● **Month** based on Month of absence;
 
