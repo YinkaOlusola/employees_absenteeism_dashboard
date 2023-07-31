@@ -90,12 +90,10 @@ to absenteeism.
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
 ![page-1](https://github.com/YinkaOlusola/employees_absenteeism_dashboard/assets/52519547/ecf3d394-4b8a-4c04-922a-c8a8aa3c185f)
+<br>
+From the figure above, it can be seen that the highest number of hours of Absenteeism happens on Monday with most of the absenteeism coming from employees who are social drinkers. This could be as a result of a social weekend as suggested in the points raised above.
+More so, most of the absenteeism is as a result of medical reasons as shown above with social drinkers equally taking the higher number. This may be a result of unhealthy lifestyles among these employees.
+Additionally, it can be seen that July and March has the highest number of absenteeism which could be as a result of challenges faced due to weather or too much social activities.
 
-:-:Figure 1.:
