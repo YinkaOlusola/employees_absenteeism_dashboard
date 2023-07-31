@@ -124,5 +124,5 @@ Much cannot be deduced from absenteeism by season and smoker status.
 ![page-4](https://github.com/YinkaOlusola/employees_absenteeism_dashboard/assets/52519547/4ed8e44d-3202-4cb3-a3e4-e1d2fbd3260f)
 <br>
 <br>
-Most absenteeisms when compared across seasons, most employees recorded their highest absenteeism in spring.
+When compared across seasons, most employees recorded their highest absenteeism in spring.
 Social drinkers can be seen to have the most absenteeism and most of them adhered to disciplinary actions.
