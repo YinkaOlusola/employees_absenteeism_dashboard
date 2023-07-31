@@ -98,4 +98,4 @@ to absenteeism.
 
 ![page-1](https://github.com/YinkaOlusola/employees_absenteeism_dashboard/assets/52519547/ecf3d394-4b8a-4c04-922a-c8a8aa3c185f)
 
-:Figure 1.:
+:-:Figure 1.:
