@@ -13,10 +13,9 @@ answer questions regarding employee absenteeism.
 <br>
 The dataset was cleaned and wrangled on Power BI using DAX and the Dashboard was equally created.
 
-The dataset contains two tables, the Employee_info table, and the Absenteeism table.
+The dataset contains two tables, the **Employee_info table**, and the **Absenteeism table**.
 
 The description of the respective tables is given below:
-<br>
 <br>
 <br>
 <br>
@@ -46,7 +45,6 @@ The description of the respective tables is given below:
 <br>
 <br>
 <br>
-<br>
 ### Absenteeism
 ● **ID:** Unique identifier for each employee.
 
@@ -61,7 +59,7 @@ The description of the respective tables is given below:
 ● **Hit target:** Target hit factor (0–100).
 
 ● **Disciplinary failure:** A failure to adhere to a previous disciplinary warning relating 
-to absenteeism (yes=1, no=0).
+to absenteeism.
 
 ● **Absenteeism time in hours:** Number of hours the employee has been absent.
 
@@ -69,30 +67,11 @@ to absenteeism (yes=1, no=0).
 <br>
 <br>
 <br>
-<br>
-## After Data Wrangling, the following were included in each Table
-
-● **Month** based on Month of absence;
+## After Data Wrangling, the following were included:
 
 ● **Season** based on Month of absence;
 
-● **Absenteeism** reason based on Reason for absence;
-
-● **Disciplinary** status based on Disciplinary failure; and
-
-● **Weekday** based on Day of the Week.
-<br>
-<br>
-In the Employee_info table:
-
 ● **BMI** based on Weight and Height;
-
-● **Drinker status** based on Social drinker;
-
-● **Smoker status** based on Social smoker; and
-
-● **Education** level based on Education.
-<br>
 <br>
 <br>
 <br>
@@ -107,6 +86,9 @@ In the Employee_info table:
 ● The season can affect attendance. Winter months might cause sickness or difficult travel conditions.
 <br>
 <br>
+### The images below are from the dashboard that was created.
+<br>
+<br>
 <br>
 <br>
 <br>
@@ -115,3 +97,5 @@ In the Employee_info table:
 <br>
 
 ![page-1](https://github.com/YinkaOlusola/employees_absenteeism_dashboard/assets/52519547/ecf3d394-4b8a-4c04-922a-c8a8aa3c185f)
+
+:Figure 1.:
