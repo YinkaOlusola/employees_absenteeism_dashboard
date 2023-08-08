@@ -3,7 +3,7 @@
 This Project was carried out as part of the requirements to complete the Data Science Programme at Explore AI Academy.
 <br>
 <br>
-A manager at a medium-sized company has noticed a drop in performance from the  team. 
+A manager at a medium-sized company had noticed a drop in performance from the  team. 
 The causes were investigated and it was found out that absenteeism is quite a problem. There is a need to determine how to 
 help those who are missing work. 
 Human Resources Absenteeism dataset was provided and I was required to use this 
