@@ -93,9 +93,9 @@ to absenteeism.
 ![page-1](https://github.com/YinkaOlusola/employees_absenteeism_dashboard/assets/52519547/ecf3d394-4b8a-4c04-922a-c8a8aa3c185f)
 <br>
 <br>
-From the figure above, it can be seen that the highest number of hours of Absenteeism happens on Monday with most of the absenteeism coming from employees who are social drinkers. This could be as a result of a social weekend as suggested in the points raised above.
+From the figure above, the highest number of hours of Absenteeism happens on Monday with most of the absenteeism coming from employees who are social drinkers. This could be as a result of a social weekend as suggested in the points raised above.
 More so, most of the absenteeism is a result of medical reasons as shown above with social drinkers having the higher number. This may be a result of unhealthy lifestyles among these employees.
-Additionally, it can be seen that July and March have the highest number of absenteeism which could be as a result of challenges faced due to weather or too much social activities.
+Additionally, July and March have the highest number of absenteeism which could be as a result of challenges faced due to weather or too much social activities.
 
 <br>
 <br>
@@ -104,7 +104,7 @@ Additionally, it can be seen that July and March have the highest number of abse
 ![page-2](https://github.com/YinkaOlusola/employees_absenteeism_dashboard/assets/52519547/a02f03f9-c420-4fb0-af1b-18db0d4dbd5f)
 <br>
 <br>
-It can be seen that the highest absenteeism was recorded in Spring followed by Winter. This could be a result of activities or constraints associated with these seasons. Additionally, when compared across age groups, it can be seen that the highest absenteeism was recorded among employees in their 30s with the highest number of social drinkers being among them. And this could be an indication of the influence of their life or lifestyle on their absenteeism.
+The highest absenteeism was recorded in Spring followed by Winter. This could be a result of activities or constraints associated with these seasons. Additionally, when compared across age groups, it can be seen that the highest absenteeism was recorded among employees in their 30s with the highest number of social drinkers being among them. And this could be an indication of the influence of their life or lifestyle on their absenteeism.
 The data equally showed that the highest absenteeism was recorded among employees with low levels of education.
 
 <br>
@@ -115,7 +115,7 @@ The data equally showed that the highest absenteeism was recorded among employee
 <br>
 <br>
 Percentage absenteeism by education level and drinker status shows that employees with only High school education were absent the most and have the highest number of social drinkers. The Master/Doctorate with 100% social drinkers calls for a further investigation into the life of such employees but this data was not available at the time of this project.
-Furthermore, it can be seen that March has the highest work hours and equally record the highest absenteeism, this could mean that employees are avoiding this high work rate and it is advisable to investigate further into this situation. This same situation can be observed in absenteeism by day of the week, where Monday has the highest Work hours and equally the highest absenteeism when compared with other days.
+Furthermore, March has the highest work hours and equally record the highest absenteeism, this could mean that employees are avoiding this high work rate and it is advisable to investigate further into this situation. This same situation can be observed in absenteeism by day of the week, where Monday has the highest Work hours and equally the highest absenteeism when compared with other days.
 Much cannot be deduced from absenteeism by season and smoker status.
 <br>
 <br>
